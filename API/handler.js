@@ -21,7 +21,7 @@ export default async function handler(req, res) {
   }
 
   // Your exact Google Apps Script URL
-  const APPS_SCRIPT_URL = "https://script.google.com/a/macros/google.com/s/AKfycbzmjYKDZdBAHIlGxiDITpT1toHRyztvNKREqUaat0mS2x55IEzWa-z0emwbWOYzJ3SJ1w/exec";
+  const APPS_SCRIPT_URL = "https://script.google.com/a/macros/google.com/s/AKfycbyDT9MZrC_5AF-0OFgrlPE8vgw_bwwGwxGWDXWFanSdOONtFt28X-Da7BMuPSbAfzcC/exec";
 
   try {
     // 4. Send the request to Google Apps Script
